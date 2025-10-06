@@ -14,20 +14,6 @@
         "y_coord": -50.7228
     },
     {
-        "id": 26,
-        "omschrijving": "Inspectie van kabels",
-        "duur": 75,
-        "prioriteit": "hoog",
-        "beroepstype": "Elektrisch Monteur",
-        "bevoegdheid": "Junior",
-        "fysieke_belasting": 15,
-        "attractie": "Magic Forest",
-        "is_buitenwerk": 0,
-        "afgerond": 0,
-        "x_coord": 67.0169,
-        "y_coord": -50.7251
-    },
-    {
         "id": 32,
         "omschrijving": "Controle van algemene verlichting",
         "duur": 120,
@@ -68,5 +54,20 @@
         "afgerond": 0,
         "x_coord": 67.0169,
         "y_coord": -50.7251
+    },
+    {
+        "id": 26,
+        "omschrijving": "Inspectie van kabels",
+        "duur": 75,
+        "prioriteit": "hoog",
+        "beroepstype": "Elektrisch Monteur",
+        "bevoegdheid": "Junior",
+        "fysieke_belasting": 15,
+        "attractie": "Magic Forest",
+        "is_buitenwerk": 0,
+        "afgerond": 0,
+        "x_coord": 67.0169,
+        "y_coord": -50.7251
     }
 ]
+
