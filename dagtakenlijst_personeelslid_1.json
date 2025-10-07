@@ -1,0 +1,120 @@
+{
+    "personeelsgegevens": {
+        "naam": "Piet de Jong",
+        "leeftijd": 45,
+        "beroepstype": "Mechanisch Monteur",
+        "bevoegdheid": "Senior",
+        "fysieke_belasting": 50
+    },
+    "weergegevens": {
+        "datum": "2025-10-07",
+        "temperatuur": "18 °C",
+        "neerslag": "0 mm"
+    },
+    "dagtaken": [
+        {
+            "id": 3,
+            "omschrijving": "Mechanisch onderhoud aan scharnieren",
+            "duur": 45,
+            "prioriteit": "hoog",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 25,
+            "attractie": "Twister",
+            "is_buitenwerk": 0,
+            "afgerond": 0,
+            "x_coord": 67.0173,
+            "y_coord": -50.7698
+        },
+        {
+            "id": 5,
+            "omschrijving": "Reparatie aan karretjes",
+            "duur": 120,
+            "prioriteit": "hoog",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 20,
+            "attractie": "Galactic Journey",
+            "is_buitenwerk": 1,
+            "afgerond": 0,
+            "x_coord": 67.0214,
+            "y_coord": -50.7358
+        },
+        {
+            "id": 38,
+            "omschrijving": "Herstel van dakconstructie",
+            "duur": 30,
+            "prioriteit": "hoog",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 25,
+            "attractie": null,
+            "is_buitenwerk": 0,
+            "afgerond": 0,
+            "x_coord": 67.0034,
+            "y_coord": -50.6658
+        },
+        {
+            "taak": "Pauze",
+            "duur": 30,
+            "prioriteit": "laag"
+        },
+        {
+            "id": 62,
+            "omschrijving": "Controle van dakconstructies",
+            "duur": 40,
+            "prioriteit": "hoog",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 25,
+            "attractie": null,
+            "is_buitenwerk": 0,
+            "afgerond": 0,
+            "x_coord": 67.0105,
+            "y_coord": -50.7259
+        },
+        {
+            "id": 15,
+            "omschrijving": "Reparatie van waterkanonnen",
+            "duur": 60,
+            "prioriteit": "laag",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 15,
+            "attractie": "Mega Spin",
+            "is_buitenwerk": 1,
+            "afgerond": 0,
+            "x_coord": 67.0192,
+            "y_coord": -50.7259
+        },
+        {
+            "id": 85,
+            "omschrijving": "Kalibratie van draaiassen",
+            "duur": 30,
+            "prioriteit": "laag",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 8,
+            "attractie": "Mega Spin",
+            "is_buitenwerk": 1,
+            "afgerond": 0,
+            "x_coord": 67.0033,
+            "y_coord": -50.7294
+        },
+        {
+            "id": 15,
+            "omschrijving": "Reparatie van waterkanonnen",
+            "duur": 60,
+            "prioriteit": "laag",
+            "beroepstype": "Mechanisch Monteur",
+            "bevoegdheid": "Senior",
+            "fysieke_belasting": 15,
+            "attractie": "Mega Spin",
+            "is_buitenwerk": 1,
+            "afgerond": 0,
+            "x_coord": 67.0192,
+            "y_coord": -50.7259
+        }
+    ],
+    "totale_duur": 415
+}
