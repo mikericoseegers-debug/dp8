@@ -1,0 +1,64 @@
+{
+    "personeelsgegevens": {
+        "naam": "Angela Bakker",
+        "leeftijd": 32,
+        "beroepstype": "Onderhoudsmonteur",
+        "bevoegdheid": "Stagiair",
+        "fysieke_belasting": 50
+    },
+    "weergegevens": {
+        "datum": "2025-10-07",
+        "temperatuur": "18 °C",
+        "neerslag": "0 mm"
+    },
+    "dagtaken": [
+        {
+            "id": 9,
+            "omschrijving": "Herstel van veiligheidsbeugels",
+            "duur": 90,
+            "prioriteit": "laag",
+            "beroepstype": "Onderhoudsmonteur",
+            "bevoegdheid": "Stagiair",
+            "fysieke_belasting": 10,
+            "attractie": "Family Carousel",
+            "is_buitenwerk": 0,
+            "afgerond": 0,
+            "x_coord": 67.0157,
+            "y_coord": -50.7468
+        },
+        {
+            "taak": "Pauze",
+            "duur": 30,
+            "prioriteit": "laag"
+        },
+        {
+            "id": 95,
+            "omschrijving": "Reiniging van kleine onderdelen",
+            "duur": 30,
+            "prioriteit": "laag",
+            "beroepstype": "Onderhoudsmonteur",
+            "bevoegdheid": "Stagiair",
+            "fysieke_belasting": 5,
+            "attractie": null,
+            "is_buitenwerk": 1,
+            "afgerond": 0,
+            "x_coord": 67.0094,
+            "y_coord": -50.7195
+        },
+        {
+            "id": 9,
+            "omschrijving": "Herstel van veiligheidsbeugels",
+            "duur": 90,
+            "prioriteit": "laag",
+            "beroepstype": "Onderhoudsmonteur",
+            "bevoegdheid": "Stagiair",
+            "fysieke_belasting": 10,
+            "attractie": "Family Carousel",
+            "is_buitenwerk": 0,
+            "afgerond": 0,
+            "x_coord": 67.0157,
+            "y_coord": -50.7468
+        }
+    ],
+    "totale_duur": 240
+}
